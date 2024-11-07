@@ -145,6 +145,8 @@ export const App = () => {
           Выберите способ
         </Typography.TitleResponsive>
 
+        <Gap size={12} />
+
         <div className={appSt.product}>
           <div
             style={{
